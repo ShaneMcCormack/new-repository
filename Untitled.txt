@@ -1,1 +1,3 @@
 Hello World!
+
+Trying to get the hang of ‘Github’. Add-ing, commit-ting and push-ing my way to understanding this thing!
